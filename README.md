@@ -20,6 +20,7 @@
 
 5. Test the software:
 - After running the software, test its functionality to ensure it works as expected.
-- 
-- it will firsly display "Enter the recipe name"
-- 
+- Diaplay the Welcome message
+- it will display the recipe details
+- including the ingredients  details
+
